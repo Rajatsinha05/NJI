@@ -220,7 +220,7 @@ const EnhancedSuccessStories = () => {
     },
      {
       id: "mihir",
-      name: "harshaben & manoj bhai",
+      name: "Harshaben & Manoj bhai",
       country: "Singapore",
       flag: "🇸🇬",
       visaType: "Work Visa",
